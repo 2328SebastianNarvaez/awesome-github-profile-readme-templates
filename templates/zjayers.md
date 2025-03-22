@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm Zach Ayers!
+## Hello!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
